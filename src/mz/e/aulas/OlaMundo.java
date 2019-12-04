@@ -7,6 +7,8 @@ package mz.e.aulas;
  */
 public class OlaMundo {
     public static void main (String [] args){
-    System.out.println("Ola Mundo!!");
+        String a="Ola Mundo";
+        System.out.println("Ola Mundo!!");
+        System.out.println(a);
     }
 }
