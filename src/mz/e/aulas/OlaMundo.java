@@ -1,5 +1,6 @@
 
 package mz.e.aulas;
+import javax.swing.JOptionPane;
 
 /**
  *
@@ -10,5 +11,6 @@ public class OlaMundo {
         String a="Ola Mundo";
         System.out.println("Ola Mundo!!");
         System.out.println(a);
+        JOptionPane.showMessageDialog(null,"Ola Mundo!!");
     }
 }
